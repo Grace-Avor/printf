@@ -54,7 +54,7 @@ int _printf(const char *format, ...)
 }
 
 /**
- * print_buffer - Prints the contents of the buffer if the contents do exist
+ * print_buffer - Prints the contents of the buffer if it exist
  * @buffer: Array of chars
  * @buff_ind: Index at which to add next char, represents the length
  */
